@@ -14,15 +14,8 @@ body {
 }
 
 .box {
-  height: 300px;
-  width: 300px;
-  background: white;
-  padding: 2rem;
-  display: flex;
-  flex-direction: column;
-
-  height: 450px;
-  width: 289px;
+  height: 404px;
+  width: 260px;
   background: white;
   padding: 0.7rem;
   display: flex;
@@ -40,4 +33,12 @@ img {
 
 .content {
   text-align: center;
+  color: gray;
+  padding: 5px;
+}
+
+.header {
+  text-align: center;
+  font-weight: 700;
+  padding: 11px;
 }
